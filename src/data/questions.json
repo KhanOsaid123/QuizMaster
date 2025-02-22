@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correctAnswer": "Mercury",
+    "type": "mcq",
+    "explanation": "Mercury is the closest planet to the Sun in our solar system."
+  },
+  {
+    "question": "Which data structure organizes items in a First-In, First-Out (FIFO) manner?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "correctAnswer": "Queue",
+    "type": "mcq",
+    "explanation": "A queue follows the FIFO principle, where the first element added is the first one to be removed."
+  },
+  {
+    "question": "Which of the following is primarily used for structuring web pages?",
+    "options": ["Python", "Java", "HTML", "C++"],
+    "correctAnswer": "HTML",
+    "type": "mcq",
+    "explanation": "HTML (HyperText Markup Language) is the standard markup language for creating web pages."
+  },
+  {
+    "question": "Which chemical symbol stands for Gold?",
+    "options": ["Au", "Gd", "Ag", "Pt"],
+    "correctAnswer": "Au",
+    "type": "mcq",
+    "explanation": "Au is the chemical symbol for Gold, derived from the Latin word 'aurum'."
+  },
+  {
+    "question": "Which of these processes is not typically involved in refining petroleum?",
+    "options": [
+      "Fractional distillation",
+      "Cracking",
+      "Polymerization",
+      "Filtration"
+    ],
+    "correctAnswer": "Filtration",
+    "type": "mcq",
+    "explanation": "Filtration is not a primary process in petroleum refining. The main processes include fractional distillation, cracking, and polymerization."
+  },
+  {
+    "question": "What is the value of 12 + 28?",
+    "correctAnswer": "40",
+    "type": "integer",
+    "explanation": "Adding 12 and 28 equals 40."
+  },
+  {
+    "question": "How many states are there in the United States?",
+    "correctAnswer": "50",
+    "type": "integer",
+    "explanation": "The United States consists of 50 states."
+  },
+  {
+    "question": "In which year was the Declaration of Independence signed?",
+    "correctAnswer": "1776",
+    "type": "integer",
+    "explanation": "The Declaration of Independence was signed in 1776."
+  },
+  {
+    "question": "What is the value of pi rounded to the nearest integer?",
+    "correctAnswer": "3",
+    "type": "integer",
+    "explanation": "Pi (approximately 3.14159) rounded to the nearest integer is 3."
+  },
+  {
+    "question": "If a car travels at 60 mph for 2 hours, how many miles does it travel?",
+    "correctAnswer": "120",
+    "type": "integer",
+    "explanation": "Distance = Speed × Time, so 60 mph × 2 hours = 120 miles."
+  }
+]
