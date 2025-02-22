@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Leaderboard from "./Leaderboard";
+import Leaderboard from "./leaderBoard";
 
 function WelcomeScreen({ onStart }) {
   const [name, setName] = useState("");
